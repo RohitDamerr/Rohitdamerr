@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Damer  
 
-💻 MERN Stack Developer | Cybersecurity Enthusiast | Blockchain Learner  
+💻 MERN Stack Developer | DSA Learner | Blockchain Enthusiaste
 🎓 3rd Year CSE Student @ Government Engineering College, Ajmer  
 🚀 Passionate about building secure, scalable, and impactful solutions  
 
