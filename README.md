@@ -26,31 +26,6 @@
 ### 🛠️ Other Skills  
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-## 🚀 Featured Projects  
-
-### 🖊️ Scribble Scratch  
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react) ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)  
-[**Scribble Scratch**](https://github.com/yourusername/scribble-scratch) – Real-time collaborative scribbling app with MERN stack & Socket.io.  
-
----
-
-### 🎥 VidRooms  
-![WebRTC](https://img.shields.io/badge/Video-WebRTC-blue?logo=webrtc) ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)  
-[**VidRooms**](https://github.com/yourusername/vidrooms) – A video conferencing platform using WebRTC, MERN stack & real-time chat.  
-
----
-
-### 🏥 HealthManager  
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react) ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)  
-[**HealthManager**](https://github.com/yourusername/healthmanager) – Health management system for appointments, records & reports.  
-
----
-
-### 📰 Newspaper Segment  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[**Newspaper Segment**](https://github.com/yourusername/newspaper-segment) – Newspaper segmentation using CV models (SAM, LLaVA, DINOv2) with OCR support.  
-
----
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
